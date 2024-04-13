@@ -1982,6 +1982,9 @@ input, select, textarea {
 		  	width: 70%;
 		  	filter: brightness(2.5);
 		  }
+		  .hadiah img.bni {
+		      filter: none;
+		  }
 		  .hadiah h2{
 			color: #fff;
 		  }
